@@ -11,4 +11,7 @@ Ahora estoy editando el archivo README.md desde vscode en mi pc.
 Buenas tardes compañeros, estoy editando el archivo desde Github. Es mi primera linea.
 =======
 Proyecto Ciclo 3 MisionTIC
+
+Estoy realizando cambios de ejemplo
+
 >>>>>>> 71a995a (Realizando cambios)
