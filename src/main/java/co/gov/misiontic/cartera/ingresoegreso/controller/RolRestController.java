@@ -1,5 +1,6 @@
 package co.gov.misiontic.cartera.ingresoegreso.controller;
 
+import co.gov.misiontic.cartera.ingresoegreso.entity.Rol;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
