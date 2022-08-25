@@ -1,0 +1,5 @@
+co/gov/misiontic/cartera/ingresoegreso/IngresoegresoApplication.class
+co/gov/misiontic/cartera/ingresoegreso/entity/Usuario.class
+co/gov/misiontic/cartera/ingresoegreso/controller/RolRestController.class
+co/gov/misiontic/cartera/ingresoegreso/entity/Rol.class
+co/gov/misiontic/cartera/ingresoegreso/entity/TipoDocumento.class
